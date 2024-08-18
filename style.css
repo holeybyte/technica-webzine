@@ -60,3 +60,12 @@ section {
 .movie p {
     font-size: 20px;
 }
+
+img{
+  border-radius: 10px;
+  width: 150px;
+  border: 2px solid;
+  padding: 10px;
+  margin: 10px;
+}
+
